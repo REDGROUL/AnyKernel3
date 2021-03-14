@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=xxx #UNubSarGang Kernel for whyred xxx
+kernel.string=xxx #UNubSarGang Kernel xxx
 do.devicecheck=1
 do.modules=0
 do.systemless=1
