@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Moonlight Kernel (EAS)
+kernel.string=GAME|YOUR|KNTL Kernel (EAS)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
