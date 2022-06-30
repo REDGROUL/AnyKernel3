@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Atom-x kernel Xiaomi mi a26x builed REDGROUL (red.d)
+kernel.string=Kernel flash
 do.devicecheck=1
 do.modules=0
 do.systemless=1
